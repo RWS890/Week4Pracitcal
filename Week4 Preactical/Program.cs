@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Hello, World!");
+﻿String[] carManufacturers = new String[4];
+
